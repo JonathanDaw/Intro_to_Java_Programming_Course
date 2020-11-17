@@ -57,7 +57,7 @@ public class RainFall {
 	
 	public String getMostRainFall() {
 		int max = 0;
-		for (int i = 0; i < yearlyRain.length - 1; i++) {
+		for (int i = 0; i < yearlyRain.length; i++) {
 			if (yearlyRain[i] > yearlyRain[max])
 				max = i;
 		}
@@ -67,7 +67,7 @@ public class RainFall {
 	
 	public String getLeastRainFall() {
 		int min = 0;
-		for (int i = 0; i < yearlyRain.length - 1; i++) {
+		for (int i = 0; i < yearlyRain.length; i++) {
 			if (yearlyRain[i] < yearlyRain[min])
 				min = i;
 		}
