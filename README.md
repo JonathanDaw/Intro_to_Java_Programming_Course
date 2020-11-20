@@ -1,5 +1,5 @@
 # Intro_to_Java_Programming_Course
-This repository contains solutions that I wrote to examples to school homework problems. Examples come from "Starting Out with Java: From Control Structures through Objects" by Tony Gaddis, or MyProgrammingLab.com.
+This repository contains solutions that I wrote for school homework problems. Examples come from "Starting Out with Java: From Control Structures through Objects" by Tony Gaddis, or MyProgrammingLab.com.
 
 
 employee.java: Focuses on learning how to write a class, getters/setters in the class, and instantiating an object of said class in order to manipulate and access data.
