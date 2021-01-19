@@ -1,4 +1,4 @@
-# Intro_to_Java_Programming_Course
+# Intro to Java Programming Course
 This repository contains solutions that I wrote for school homework problems. Examples come from "Starting Out with Java: From Control Structures through Objects" by Tony Gaddis, or MyProgrammingLab.com.
 
 
