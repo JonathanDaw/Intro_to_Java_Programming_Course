@@ -18,3 +18,5 @@ rainfall.java: Incorporates the use of arrays into the creation of classes, meth
 - Honestly, I figured this assignment would be very straight forward, but with the amount of obstacles that I encountered and was forced to work myself out of,
  I feel much more comfortable writing Java classes and Java code in general. This showed me that even simple assignments can lead to issues if you are not 100% comfortable
  with the content being taught. This reinforced my understanding of the presented concepts, as well as introduced me to other conventions to improve future projects.
+
+PasswordVerifier.java: Utilizes Character methods for password validation by checking several conditions against a user's input
